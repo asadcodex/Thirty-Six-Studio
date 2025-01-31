@@ -1,6 +1,6 @@
 # ThirtySix Studio - Modern Agency Portfolio
 
-![ThirtySix Studio Banner](./36.png)
+![ThirtySix Studio Banner](./public/36.png)
 
 ## Project Overview
 ThirtySix Studio represents a cutting-edge digital agency portfolio website, engineered to deliver an immersive, interactive user experience through sophisticated web technologies.
